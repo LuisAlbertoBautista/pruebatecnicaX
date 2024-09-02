@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PruebaTecnicaComposables</string>
+    <string name="title_activity_pokemon_detail_screen">PokemonDetailScreen</string>
+</resources>
